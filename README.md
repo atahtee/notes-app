@@ -15,7 +15,8 @@ MyNotesApp is a simple mobile application that allows users to create, view, edi
 
 ## Screenshots
 
-Include screenshots or demo GIFs to visually represent your app's interface and features.
+![Screenshot 1](https://i.imgur.com/W2Np1Ns.png)
+
 
 ## Technologies Used
 

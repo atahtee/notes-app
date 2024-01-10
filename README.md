@@ -20,6 +20,14 @@ MyNotesApp is a simple mobile application that allows users to create, view, edi
 ![screenshot 3](https://i.imgur.com/lyQPydR.png)
 ![screenshot 4](https://i.imgur.com/U7lisNh.png)
 
+<p align="center">
+  <img src="https://i.imgur.com/W2Np1Ns.png" alt="Screenshot 1" width="400" />
+  <img src="https://i.imgur.com/bdNwUXC.png" alt="Screenshot 2" width="400" />
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/lyQPydR.png" alt="Screenshot 3" width="400" />
+  <img src="https://i.imgur.com/U7lisNh.png" alt="Screenshot 4" width="400" />
+</p>
 
 
 ## Technologies Used
